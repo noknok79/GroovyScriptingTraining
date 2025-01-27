@@ -1,0 +1,9 @@
+This is the source file.
+It will be copied to another file.
+The quick brown fox jumps over the lazy dog.
+This is the source file.
+It will be copied to another file.
+This is the source file.
+It will be copied to another file.
+This is the source file.
+It will be copied to another file.
